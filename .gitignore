@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+venv/
+
+# macOS
+.DS_Store
+
+# Logs
+logs/
+
+# Database
+database/*.db
+
+# SSH Keys
+keys/*.key
+keys/*.pub
+
+# IDE
+.vscode/
+.idea/
+
+# Pytest
+.pytest_cache/
