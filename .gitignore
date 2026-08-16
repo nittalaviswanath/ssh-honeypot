@@ -31,3 +31,14 @@ _trial_temp
 
 # nix build output
 /result
+# SOC runtime data
+reports/
+soc_history.json
+soc_history_v3.json
+
+# Python virtual environment
+cowrie-env/
+
+# Python cache
+__pycache__/
+*.pyc
